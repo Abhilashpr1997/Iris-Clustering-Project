@@ -17,7 +17,9 @@ The target (species) column is dropped, and the clustering is performed based on
 
 ## Preprocessing steps
 1. Dropping the target column since it's a clustering problem.
-2. Removed Duplicates values
+2. Removed Duplicates values.
+3. Created a histogram and box plot for visualization.
+4. Standardize the dataset using StandardScaler.
 
 ## Algorithms Used
 
